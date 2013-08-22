@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GoearAutocomplete</string>
+    <string name="search_terms">Search terms</string>
+    <string name="search">Search</string>
+</resources>
